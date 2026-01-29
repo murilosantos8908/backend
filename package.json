@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "IDEV-4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murilosantos8908/backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murilosantos8908/backend/issues"
+  },
+  "homepage": "https://github.com/murilosantos8908/backend#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
